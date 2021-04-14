@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Slv1-webpage
 - 👀 I’m interested in Html projects.
 - 🌱 I’m currently learning full stack website development.
-- 💞️ I’m looking to collaborate on making wonderful website.
+- 💞️ I’m looking to collaborate in  website development projects.
 - 📫 you can anytime me at my git inbox.
 
 <!---
